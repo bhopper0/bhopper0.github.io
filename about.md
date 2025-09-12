@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I write here, sometimes, when the mood calls to me.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also write about books sometimes, but I'm not going to link it here.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+don't, unless you know me personally
