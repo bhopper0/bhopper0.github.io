@@ -3,7 +3,7 @@ layout: post
 title: Consider...Fish
 ---
 
-### Draft 1
+### Version 1
 I return because I want to write. Whether it’s bad, whether it’s not about what I originally wanted to write about, it just keeps returning to me. I keep returning to it. I’m doing exactly what I described as well – I’m not writing the fiction I wanted to write earlier this evening – and yet, tonight I cannot find it within myself to feel bad about this. I guess I’m just happy to be doing anything at all. Creating, instead of consuming, even if it is using a shitty (but expensive, the worst combination) mechanical keyboard,[^1] which feels uncomfortable on my fingers and which doubles up a random assortment of letters for no reason. (A painter with only dirty brushes, a calligrapher  with a pen that skips ink).
 
 This, in a way, is still creative writing. Is, definitively, I suppose. 
